@@ -1,0 +1,27 @@
+{
+    "name": "Huevito rey vs Vendedor de leña",
+    "short_name": "TorneoDeCell",
+    "icons": [
+        {
+            "src": "./huevito192.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "./huevito512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        },
+        {
+            "purpose": "maskable",
+            "src": "./huevito512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ],
+    "theme_color": "#14784d",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "start_url": "/index.html"
+}
